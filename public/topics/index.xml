@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Topics on My New Hugo Site</title>
+    <link>https://example.org/topics/</link>
+    <description>Recent content in Topics on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Feb 2024 11:37:37 +0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notifications</title>
       <link>https://example.org/topics/notifications/</link>
       <pubDate>Sat, 03 Feb 2024 11:37:37 +0700</pubDate>
       <guid>https://example.org/topics/notifications/</guid>
       <description>I hate notifications because it&amp;rsquo;s give me something by defaults. Notifications should only given if I wanted it.&#xA;There is some kind of notifications.&#xA;Email Chat Phone notifications In the past when it&amp;rsquo;s only my computer and my nokia java phone. I&amp;rsquo;m pretty good to keep thing in balanced, between my study and playtime. But it&amp;rsquo;s change since I have android.&#xA;Nowadays, Android ask user permission if this notifications is allowed or not by asking the user.</description>
-    </item>
-    <item>
-      <title>Software That I Use</title>
-      <link>https://example.org/notes/software-that-i-use/</link>
-      <pubDate>Wed, 10 Jan 2024 15:07:57 +0700</pubDate>
-      <guid>https://example.org/notes/software-that-i-use/</guid>
-      <description>In an attempt to documentice what software I&amp;rsquo;m using. I will update this as the time goes on.&#xA;The order is on alphabetically basis.&#xA;Linux Emacs - Notes MarkText - Markdown editor with styles Nvim - Text editor </description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://example.org/about/</link>
-      <pubDate>Wed, 10 Jan 2024 14:45:14 +0700</pubDate>
-      <guid>https://example.org/about/</guid>
-      <description>test Hello</description>
     </item>
   </channel>
 </rss>
