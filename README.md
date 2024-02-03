@@ -9,5 +9,5 @@
    `hugo`
 4. redeploy with
    `netlify deploy`
-   it looking good, push to production with
+   if it looking good, push to production with
    `netlify deploy --prod`
