@@ -18,6 +18,11 @@ pageRef = '/posts'
 weight = 30
 
 [[menus.main]]
+name = 'Topics'
+pageRef = '/topics'
+weight = 40
+
+[[menus.main]]
 name = 'About'
 pageRef = '/about'
 weight = 90
