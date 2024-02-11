@@ -6,8 +6,22 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Feb 2024 11:37:37 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 13:50:29 +0700</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World from Post</title>
+      <link>https://example.org/posts/hello-world-post/</link>
+      <pubDate>Sun, 11 Feb 2024 13:50:29 +0700</pubDate>
+      <guid>https://example.org/posts/hello-world-post/</guid>
+      <description>Test hello</description>
+    </item>
+    <item>
+      <title>Projects Live</title>
+      <link>https://example.org/notes/projects-live/</link>
+      <pubDate>Thu, 08 Feb 2024 21:00:37 +0700</pubDate>
+      <guid>https://example.org/notes/projects-live/</guid>
+      <description>List of projects that live and still maintained by me.&#xA;clock-in-task-fyne&#xA;Desktop app built with go using fyne-toolkit. This desktop app will sync with current task that running in org-pomodoro within emacs application. It will show total minutes that I working on this, effort estimation in minutes and task title.&#xA;emacs already have builtin taskbar that show total minutes clocked, effort estimation and task title with remaining time.&#xA;but it only show when emacs opened, most of the time I want to know the pomodoro timer everywhere.</description>
+    </item>
     <item>
       <title>Notifications</title>
       <link>https://example.org/topics/notifications/</link>
