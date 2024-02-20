@@ -6,8 +6,22 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2024 13:50:29 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 22:20:37 +0700</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>keybinding</title>
+      <link>https://example.org/tags/keybinding/</link>
+      <pubDate>Wed, 14 Feb 2024 22:20:37 +0700</pubDate>
+      <guid>https://example.org/tags/keybinding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>shortcut</title>
+      <link>https://example.org/tags/shortcut/</link>
+      <pubDate>Wed, 14 Feb 2024 22:20:37 +0700</pubDate>
+      <guid>https://example.org/tags/shortcut/</guid>
+      <description></description>
+    </item>
     <item>
       <title>hello world</title>
       <link>https://example.org/tags/hello-world/</link>

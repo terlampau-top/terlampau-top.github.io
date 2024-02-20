@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2024 13:50:29 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 22:20:37 +0700</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keybindings</title>
+      <link>https://example.org/notes/keybindings/</link>
+      <pubDate>Wed, 14 Feb 2024 22:20:37 +0700</pubDate>
+      <guid>https://example.org/notes/keybindings/</guid>
+      <description>I will add TOC (table of content) when this notes became too long.&#xA;Some application have a lot more than what I shown here, but most of keybind that I shown here is keybind that I always use most of the time.&#xA;Okular Action Keybind Remap keybind C-A-, Double page view (facing page) C-S-2 Single page view C-S-1 Toggle sidebar F7 Jump to specific page C-g Fullscreen mode F11 Presentation mode C-S-p Annotation 123456 Cursor to browse C-1 Cursor to text selection C-4 Trim margin </description>
+    </item>
     <item>
       <title>Hello, World from Post</title>
       <link>https://example.org/posts/hello-world-post/</link>
