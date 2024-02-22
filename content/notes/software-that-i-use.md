@@ -10,7 +10,16 @@ The order is on alphabetically basis.
 
 ## Linux
 
-- Emacs - Notes
-- MarkText - Markdown editor with styles
-- Nvim - Text editor
+- Emacs | Notes
+- MarkText | Markdown editor with styles
+- Nvim | Text editor
+- Okular | PDF / Ebook reader
+- Konsole | Terminal
 
+## Cli Application
+
+* [countdown](https://github.com/aldernero/countdown) + [nai](https://github.com/azzamsa/nai?tab=readme-ov-file) | cli app that launch after open terminal
+
+* hugo | use markdown to write in this blog
+
+* make | run project or deploy with the same command in different framework or languages

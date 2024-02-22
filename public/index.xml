@@ -48,7 +48,7 @@
       <link>https://example.org/notes/software-that-i-use/</link>
       <pubDate>Wed, 10 Jan 2024 15:07:57 +0700</pubDate>
       <guid>https://example.org/notes/software-that-i-use/</guid>
-      <description>In an attempt to documentice what software I&amp;rsquo;m using. I will update this as the time goes on.&#xA;The order is on alphabetically basis.&#xA;Linux Emacs - Notes MarkText - Markdown editor with styles Nvim - Text editor </description>
+      <description>In an attempt to documentice what software I&amp;rsquo;m using. I will update this as the time goes on.&#xA;The order is on alphabetically basis.&#xA;Linux Emacs | Notes MarkText | Markdown editor with styles Nvim | Text editor Okular | PDF / Ebook reader Konsole | Terminal Cli Application countdown + nai | cli app that launch after open terminal&#xA;hugo | use markdown to write in this blog&#xA;make | run project or deploy with the same command in different framework or languages</description>
     </item>
     <item>
       <title>About</title>
