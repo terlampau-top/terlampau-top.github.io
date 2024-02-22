@@ -15,6 +15,7 @@ The order is on alphabetically basis.
 - Nvim | Text editor
 - Okular | PDF / Ebook reader
 - Konsole | Terminal
+- Mpv | video player
 
 ## Cli Application
 
@@ -23,3 +24,9 @@ The order is on alphabetically basis.
 * hugo | use markdown to write in this blog
 
 * make | run project or deploy with the same command in different framework or languages
+
+* editly | text based video editor
+
+* editly | generate simple youtube thumbnail 
+
+* nvm | switch nodejs version

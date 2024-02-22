@@ -6,5 +6,3 @@ draft = false
 +++
 
 [PDF / ebook reader gratis dengan fitur terbanyak | review okular - YouTube](https://youtu.be/l_NHjvOfjLw)
-
-
