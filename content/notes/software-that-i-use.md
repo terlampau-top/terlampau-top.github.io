@@ -8,6 +8,8 @@ In an attempt to documentice what software I'm using. I will update this as the 
 
 The order is on alphabetically basis.
 
+TODO: rearrange based on alphabetically based.
+
 ## Linux
 
 - Emacs | Notes
@@ -30,3 +32,9 @@ The order is on alphabetically basis.
 * editly | generate simple youtube thumbnail 
 
 * nvm | switch nodejs version
+
+## TUI (Text User Interface)
+
+* ncpamixer | Select audio input or output
+
+* 
