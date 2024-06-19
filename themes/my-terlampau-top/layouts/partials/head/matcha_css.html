@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
+
+{{- with resources.Get "css/custom_matcha.css" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{- end }}
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const root = document.documentElement;
+      if (root.getAttribute('data-color-scheme') === 'dark') {
+        root.style.setProperty('--light-accent', '#00ff00');
+      }
+    });
+  </script>

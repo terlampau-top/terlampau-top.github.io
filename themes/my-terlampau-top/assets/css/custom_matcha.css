@@ -1,0 +1,14 @@
+:root {
+  --light-accent: #ff6347; /* Tomato color */
+}
+
+@media (prefers-color-scheme: dark) {
+/* not working in here, but using js to set root.style.setProperty is working
+/*   :root { */
+/*     --light-accent: #00ff00; /* Green color */ */
+/*   } */
+}
+
+a {
+  color: var(--light-accent);
+}
