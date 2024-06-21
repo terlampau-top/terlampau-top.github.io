@@ -1,5 +1,5 @@
 :root {
-  --light-accent: #ff6347; /* Tomato color */
+  --light-accent: #4ae072; /* Tomato color */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -11,4 +11,8 @@
 
 a {
   color: var(--light-accent);
+}
+
+menu li {
+  color: #4ae072;
 }
