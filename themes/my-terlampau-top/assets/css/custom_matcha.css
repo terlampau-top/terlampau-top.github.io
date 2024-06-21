@@ -3,10 +3,10 @@
 }
 
 @media (prefers-color-scheme: dark) {
-/* not working in here, but using js to set root.style.setProperty is working
-/*   :root { */
-/*     --light-accent: #00ff00; /* Green color */ */
-/*   } */
+  /* not working in here, but using js to set root.style.setProperty is working
+  /*   :root { */
+  /*     --light-accent: #00ff00; /* Green color */ */
+  /*   } */
 }
 
 a {
@@ -15,4 +15,10 @@ a {
 
 menu li {
   color: #4ae072;
+}
+
+menu li a.selected {
+  padding: 0.3em;
+  background-color: #4ae072;
+  color: black;
 }
