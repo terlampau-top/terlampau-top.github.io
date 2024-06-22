@@ -18,6 +18,7 @@ TODO: rearrange based on alphabetically based.
 - Okular | PDF / Ebook reader
 - Konsole | Terminal
 - Mpv | video player
+- [ezshare](https://github.com/mifi/ezshare) | transfer files between devices without internet
 
 ## Cli Application
 
