@@ -19,6 +19,7 @@ TODO: rearrange based on alphabetically based.
 - Konsole | Terminal
 - Mpv | video player
 - [ezshare](https://github.com/mifi/ezshare) | transfer files between devices without internet
+- [Filelight](https://apps.kde.org/filelight/) | see disk usage
 
 ## Cli Application
 
